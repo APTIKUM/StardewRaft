@@ -1,0 +1,110 @@
+{
+  "plasticSeaTrash": {
+    "resourceType": "plastic",
+    "spawnWeight": 0.33,
+    "categories": [
+      {
+        "skin": "plastic_white_0",
+        "colliderSize": [ 55, 55 ]
+      },
+      {
+        "skin": "plastic_white_1",
+        "colliderSize": [ 55, 55 ]
+      },
+      {
+        "skin": "plastic_red_0",
+        "colliderSize": [ 55, 42 ]
+      },
+      {
+        "skin": "plastic_red_1",
+        "colliderSize": [ 55, 42 ]
+      },
+      {
+        "skin": "plastic_bottle_0",
+        "colliderSize": [ 55, 31 ]
+      },
+      {
+        "skin": "plastic_bottle_1",
+        "colliderSize": [ 55, 31 ]
+      }
+    ]
+  },
+  "leafSeaTrash": {
+    "resourceType": "leaf",
+    "spawnWeight": 0.33,
+    "categories": [
+      {
+        "skin": "leaf_0",
+        "colliderSize": [ 55, 47 ]
+      },
+      {
+        "skin": "leaf_1",
+        "colliderSize": [ 55, 52 ]
+      },
+      {
+        "skin": "leaf_2",
+        "colliderSize": [ 55, 52 ]
+      },
+      {
+        "skin": "leaf_3",
+        "colliderSize": [ 55, 50 ]
+      },
+      {
+        "skin": "leaf_4",
+        "colliderSize": [ 55, 50 ]
+      },
+      {
+        "skin": "leaf_5",
+        "colliderSize": [ 55, 48 ]
+      }
+    ]
+  },
+  "woodSeaTrash": {
+    "resourceType": "wood",
+    "spawnWeight": 0.33,
+    "categories": [
+      {
+        "skin": "wood_0",
+        "colliderSize": [ 70, 23 ]
+      },
+      {
+        "skin": "wood_1",
+        "colliderSize": [ 70, 23 ]
+      },
+      {
+        "skin": "wood_2",
+        "colliderSize": [ 77, 23 ]
+      },
+      {
+        "skin": "wood_3",
+        "colliderSize": [ 77, 23 ]
+      },
+      {
+        "skin": "wood_4",
+        "colliderSize": [ 68, 20 ]
+      },
+      {
+        "skin": "wood_5",
+        "colliderSize": [ 68, 20 ]
+      }
+    ]
+  },
+  "barrelSeaTrash": {
+    "resourceType": "barrel",
+    "spawnWeight": 0.025,
+    "categories": [
+      {
+        "skin": "barrel_0",
+        "colliderSize": [ 62, 80 ]
+      },
+      {
+        "skin": "barrel_1",
+        "colliderSize": [ 62, 80 ]
+      },
+      {
+        "skin": "barrel_2",
+        "colliderSize": [ 58, 88 ]
+      }
+    ]
+  }
+}
